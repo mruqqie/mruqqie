@@ -19,5 +19,5 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :smile: Pronouns: She/her
 - :construction_worker: I studied Biomedical Engineering and began coding in my 4th year.
-- <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="20" height="20"> I am open to entry level and freelance jobs.
-- 
+- :computer: I am open to entry level and freelance jobs.
+- :speech_balloon: Contact me on <a href="www.linkedin.com/in/ruqouyyahmuhammad">Linkedin</a> or via <a href="mailto: mruqqie@gmail.com">email</a>
