@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3dK3ko9lmeEJesIstK/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width="300"/>
 </div>
 <h1 align="center">
   Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 </h1>
 <div id="badges">
   <a href="www.linkedin.com/in/ruqouyyahmuhammad">
